@@ -27,6 +27,13 @@
             android:layout_height="80dp"
             android:textSize="48sp"
             android:text="+"/>
+
+    <Button
+            android:id="@+id/oprMinus"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:textSize="48sp"
+            android:text="-"/>
     
 
     <TextView
