@@ -47,8 +47,15 @@
                 android:textSize="48sp"
                 android:text="x"/>
 
+        <Button
+                android:id="@+id/oprDevide"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:textSize="48sp"
+                android:text="/"/>
+
     </LinearLayout>
-    
+
     <TextView
             android:id="@+id/txtResult"
             android:layout_width="wrap_content"
